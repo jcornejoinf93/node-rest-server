@@ -28,6 +28,9 @@ process.env.URLDB = urlDB;
 // 60 minutos
 // 24 horas
 // 30 dìas
+//
+
+//48 = 48 hrs
 
 process.env.CADUCIDAD_TOKEN = 60 * 60 * 24 * 30;
 
